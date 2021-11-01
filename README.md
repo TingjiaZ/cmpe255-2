@@ -9,4 +9,4 @@ For t-SNE to be meaningful we have to choose right value of perplexity. Perplexi
 
 LLE is sensitive to outliers and noise. Datasets have a varying density and it is not always possible to have a smooth manifold. In these cases, LLE gives a poor result.
 
-Isomap performs poorly when manifold is not well sampled and contains holes. As mentioned earlier neighborhood graph creation is tricky and slightly wrong parameters can produce bad results.
+Isomap performs poorly when manifold is not well sampled and contains holes.
